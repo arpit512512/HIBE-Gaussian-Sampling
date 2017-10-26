@@ -1,4 +1,4 @@
-# HIBE-Gaussian-Sampling
+# HIBE Gaussian Sampling
 <p> 
 University of Campinas <br>
 Institute of Computing <br>
